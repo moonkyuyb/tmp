@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zipanda</string>
+    <string name="kakao_app_key">c2e55b6dbe7fdb19d1af5422eff956ce</string>
+    <string name="facebook_app_id">220072876524977</string>
+    <string name="facebook_client_token">58dabe0997f854ffd4892e6ccdde9eb8</string>
+
+</resources>

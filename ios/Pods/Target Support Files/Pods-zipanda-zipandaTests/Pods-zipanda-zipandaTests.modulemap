@@ -1,0 +1,6 @@
+module Pods_zipanda_zipandaTests {
+  umbrella header "Pods-zipanda-zipandaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

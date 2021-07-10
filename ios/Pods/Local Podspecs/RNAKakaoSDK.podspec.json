@@ -1,0 +1,41 @@
+{
+  "name": "RNAKakaoSDK",
+  "version": "0.9.8",
+  "summary": "KakaoSDK for React, ReactNative",
+  "authors": {
+    "Actbase LLC": "project@actbase.io"
+  },
+  "homepage": "https://github.com/actbase/react-kakaosdk#readme",
+  "license": "MIT",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "WebKit"
+  ],
+  "requires_arc": true,
+  "source": {
+    "git": "git+https://github.com/actbase/react-kakaosdk.git"
+  },
+  "source_files": "ios/*.{h,m,swift}",
+  "swift_versions": "5.1",
+  "ios": {
+    "frameworks": "MobileCoreServices"
+  },
+  "dependencies": {
+    "React": [
+
+    ],
+    "React-Core": [
+
+    ],
+    "KakaoSDK": [
+      "~> 2.5.0"
+    ]
+  },
+  "xcconfig": {
+    "ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES": "YES"
+  },
+  "swift_version": "5.1"
+}

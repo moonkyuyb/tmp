@@ -1,0 +1,28 @@
+{
+  "name": "ARNKakaoLink",
+  "version": "1.0.5",
+  "summary": "Kakao Link For React Native.",
+  "authors": {
+    "Suhan Moon": "leader@trabricks.io"
+  },
+  "homepage": "https://github.com/trabricks/react-native-link#readme",
+  "license": "MIT",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "source": {
+    "git": "https://github.com/trabricks/react-native-kakao-link.git"
+  },
+  "source_files": "ios/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ],
+    "ARNKakaoSDK": [
+
+    ]
+  },
+  "vendored_frameworks": "KakaoLink.framework"
+}

@@ -1,0 +1,112 @@
+💬네이밍 규칙 - 파일명
+	앱
+	- Danji + Screen.js (src/screen/..)
+	- danji + Reducer.js (src/reducer/)
+	- danji + Container.js (src/container/)
+	- styledcomponents의 경우 가능한 한 현행 유지
+
+	API서버 
+	-  danji.js (api/route)
+
+💬네이밍 규칙 - 변수명
+	- DanjiScreen.js
+		파일 내 컴포넌트 개체 이름
+		· const DanjiScreen () => { ... }
+		파일 하단 기본 출력 변수명
+		· export default DanjiScreen
+
+	- danjiContainer.js
+		상단 import 시
+		· import Danji + Screen from ...
+		하단 connect 시
+		· export const Danji + Container = connect(...
+	
+	-danjiReducer.js
+		기본 TYPE 3종
+		· INIT_ + DANJI + _STATE: 초기화 후 주어진 payload를 등록
+		· SET_ + DANJI + _STATE: 주어진 payload를 현재 상태에 추가
+		· CLEAR_ + DANJI + _STATE: 모든 상태 초기화
+		기본 thunk 액션 3종
+		· initDanjiState(payload), setDanjiState(payload), clearDanjiState() : 상동
+		하단 export 변수명
+		· export default danjiReducer
+
+※가능한 한 가이드에 맞춰주시되 기존 내용을 너무 많이 바꿔야 하거나 파일명이 지나치게 길어질 경우 적당히 유도리 있게 조정
+※대소문자 가능한 한 준수해주세요
+
+💬Reducer개발 가이드라인
+	-SampleReducer.js 💁‍♀️표준 리듀서
+		· 기본적인 CentralReducer이용 방식, API호출 방식 등이 준비되어있음
+		· 새 리듀서 작성, 기존 리듀서 작성 시 참고해주세요
+		· TYPE/ACTION은 보통 3종으로 고정되어있고 생각보다 추가할 일이 많지 않음
+		  (오히려 thunk method들이 많이 필요 예를 들어 getSample, postMessage .. 등)
+
+	-리듀서 파일 분리 기준
+		기본적으로 데이터베이스 기준(sales, member, 등)으로 나누되
+		기능(ex: auth, central 등), 화면(member/memberInfo 등) 단위로 나눠도 무관
+
+	-state 관리
+		· screen에 가능한 한 적은 state를 남기는 것을 목표로 함
+		· 동기/비동기 ISSUE 관리를 위해 async, await, axios, Promise 적극 이용
+		· 특히 Promise가 우리를 구원할 것입니다.. 실제 사용법은 구글과 chatReducer.js를 참고하세요
+		· Reducer들은 나눠져있는 것처럼 보이지만 실제로는 하나(redux-store)이므로
+		  다른 리듀서를 적극적으로 참조하면서, 한 리듀서의 변화가 다른 리듀서에 영향을 줄 수 있다는 것을 주의
+
+💥screen, 다른 reducer 등에서 connect없이 리듀서 state, action 사용하는 방법 [REACT HOOK]
+	-screen에서
+		상단
+		· import { useDispatch, useSelector } from 'react-redux' : react-redux import 필요
+		· import setDanjiState from ... : 사용하고자 하는 리듀서 import
+		화면 내
+		· const dispatch = useDispatch() 으로 디스패쳐 등록
+		· dispatch(setDanjiState({ ... })) : 디스패치 경유하여 전체 리듀서 접근
+		· const danjiState = useSelector(state=>state.danjiReducer. ...) : 리듀서의 state에도 접근 가능
+	-reducer에서
+		STATE
+		· getState().danjiReducer. ... 으로 사용
+		ACTION
+		· 상단에 import 후 dispatch ...로 사용(screen과 유사)
+
+💬centralReducer.js 사용법
+	- alert 창 띄우기
+		· 스크린에 <AlertModal/> 등록 ( centralContainer.js 임포트 필요 )
+		· 팝업 창에 띄울 문자열을 dispatch 등을 이용해서 centralReducer.alertMsg에 등록
+
+	- 뒤로가기
+		· 스크린에 import { StackActions } from '@react-navigation/native' 임포트
+		· centralReducer.needGoBack에 뒤로 갈 화면 수 지정
+		· useEffect에 needGoBack을 등록해놓고 needGoBack값이 변경될 경우 뒤로가기 실행 (SigninScreen.js 참고)
+		※ 뒤로가기 수행 직후 반드시 needGoBack: null로 초기화하거나 centralReducer state 초기화 해야함
+	
+	- 화면 이동
+		뒤로가기와 비슷하게 작업, 이 경우에도 반드시 navigateTo 값을 초기화 할 것 !
+
+	- 토스트 메세지
+		현재 toastMsg로 등록만 해둠, 추후 개발
+
+	- ComfirmModal: 개발 예정, 팝업 띄우고 확인/취소에 각각 callback을 등록할 수 있게 작업할 예정
+
+	- 에러 핸들링
+		· 에러 발생 지점에서 return dispatch(handleError({ ... }))로 에러 핸들링 (chatReducer.js, authReducer.js등 참고)
+		· 일부 공통 에러의 경우 handleError에서 잡아서 처리(chatReducer.js의 forbidden처리 참고)
+		· 발생 지점에서 처리해도 무관(authReducer.js의 401 Unauthorization 처리 참고)
+		· centralReducer.error에는 Error Object 등록. 직접 발생시킨 에러의 경우 ...handleError({error: new Error('에러메세지')})...의 형식으로 전달
+
+💬서랍 메뉴(DrawerContent.js) 개발 시
+	지정된 props, state, dispatch를 '적절'하게 응용
+	각각 props.navigation, useSelector, useDispatch처럼 사용 가능합니다
+
+💬로그인 확인※ feat. AsyncStorage
+	현재는 memberReducer의 member를 확인하고, member가 없을 경우 centralReducer 이용해서 alert 띄우는 동시에 뒤로 보내는 식으로 작업 중(chatlistScreen 참고)
+	이 부분은 개선의 여지가 있을 것 같아서 변경 될 가능성이 있습니다
+	자동 로그인 등록되어있을 시 AsyncStorage의 token을 verifyToken 이용해서 member로 변환합니다(token은 member의 내용을 암호화한 것)
+	(AsyncStorage의 경우 우선은 토큰(token)/로그인유지(keepSignin)/필터에만 사용, 앞으로도 가능한 한 적게 사용하도록 유지)
+
+💬API개발 가이드라인
+	기존 API로 불러올 수 있는 항목을 확인한 후 원하는 정보를 추가할 수 있는 쿼리로 수정
+	예를 들어, [GET] /sales/:s_id로 더 많은 정보를 불러오게 수정하고 싶다면
+	현재 불러올 수 있는 s_id, ..., saleType, ..., 을 유지하면서 쿼리 수정
+	만일 불가능 하거나 현재 쿼리의 성능이 불만족스럽다면, 꼴랑 개발자 두 명이므로 언제든지 거침없이 수정제안 부탁드려요
+
+💬기타(Guitar)
+	살려주세요

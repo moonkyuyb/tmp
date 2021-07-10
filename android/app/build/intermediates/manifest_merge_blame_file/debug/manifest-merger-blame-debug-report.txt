@@ -1,0 +1,719 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zipanda"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:5:5-67
+12-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:5:22-64
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:7:5-78
+13-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:8:5-80
+14-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:9:5-78
+15-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:10:5-79
+16-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:10:22-77
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->[com.facebook.flipper:flipper:0.54.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/aae9d80690c262ea679a5dc970f768f5/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
+17-->[com.facebook.flipper:flipper:0.54.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/aae9d80690c262ea679a5dc970f768f5/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[:react-native-firebase_auth] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+18-->[:react-native-firebase_auth] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+19
+20    <queries>
+20-->[com.kakao.sdk:v2-navi:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/aabd88631bb6e80100d8b1a41ae1db12/jetified-v2-navi-2.5.0/AndroidManifest.xml:11:5-14:15
+21        <package android:name="com.locnall.KimGiSa" />
+21-->[com.kakao.sdk:v2-navi:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/aabd88631bb6e80100d8b1a41ae1db12/jetified-v2-navi-2.5.0/AndroidManifest.xml:12:9-55
+21-->[com.kakao.sdk:v2-navi:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/aabd88631bb6e80100d8b1a41ae1db12/jetified-v2-navi-2.5.0/AndroidManifest.xml:12:18-52
+22        <package android:name="com.lguplus.navi" />
+22-->[com.kakao.sdk:v2-navi:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/aabd88631bb6e80100d8b1a41ae1db12/jetified-v2-navi-2.5.0/AndroidManifest.xml:13:9-52
+22-->[com.kakao.sdk:v2-navi:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/aabd88631bb6e80100d8b1a41ae1db12/jetified-v2-navi-2.5.0/AndroidManifest.xml:13:18-49
+23    </queries>
+24    <queries>
+24-->[com.kakao.sdk:v2-navi:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/aabd88631bb6e80100d8b1a41ae1db12/jetified-v2-navi-2.5.0/AndroidManifest.xml:11:5-14:15
+25        <package android:name="com.kakao.talk" />
+26        <package android:name="com.kakao.talk.alpha" />
+27        <package android:name="com.kakao.talk.sandbox" />
+28        <package android:name="com.kakao.onetalk" />
+29        <package android:name="com.android.chrome" />
+30        <package android:name="com.chrome.beta" />
+31        <package android:name="com.chrome.dev" />
+32    </queries>
+33
+34    <uses-feature
+34-->[com.google.android.gms:play-services-maps:17.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/8221ef9117597976cb5f546f561b4578/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+35        android:glEsVersion="0x00020000"
+35-->[com.google.android.gms:play-services-maps:17.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/8221ef9117597976cb5f546f561b4578/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+36        android:required="true" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+36-->[com.google.android.gms:play-services-maps:17.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/8221ef9117597976cb5f546f561b4578/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+37    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+37-->[com.google.android.gms:play-services-iid:17.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/da8688f2e3fad20764fbca4765d45153/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+37-->[com.google.android.gms:play-services-iid:17.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/da8688f2e3fad20764fbca4765d45153/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+38    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- for android -->
+38-->[com.android.installreferrer:installreferrer:1.1.2] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/68ad5b5a1fecba44f7265c5cd3167b92/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+38-->[com.android.installreferrer:installreferrer:1.1.2] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/68ad5b5a1fecba44f7265c5cd3167b92/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+39    <!-- <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/> -->
+40    <!-- <uses-permission android:name="com.android.launcher.permission.WRITE_SETTINGS"/> -->
+41    <!-- <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" /> -->
+42    <!-- <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" /> -->
+43    <!-- for Samsung -->
+44    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+44-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+44-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+45    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- for htc -->
+45-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+45-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+46    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+46-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+46-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+47    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- for sony -->
+47-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+47-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+48    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+48-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+48-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+49    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- for apex -->
+49-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+49-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+50    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- for solid -->
+50-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+50-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+51    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- for huawei -->
+51-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+51-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+52    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+52-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+52-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+53    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+53-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+53-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+54    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- for ZUK -->
+54-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+54-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+55    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- for OPPO -->
+55-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+55-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+56    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+56-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+56-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+57    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- for EvMe -->
+57-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+57-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+58    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+58-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+58-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+59    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+59-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+59-->[me.leolin:ShortcutBadger:1.1.22] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/b36b58fb13ee38ba5303cc0000755993/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
+60
+61    <application
+61-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:13:5-72:19
+62        android:name="com.zipanda.MainApplication"
+62-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:14:9-40
+63        android:allowBackup="true"
+63-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:18:9-35
+64        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+64-->[androidx.core:core:1.3.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/1308b9d64cd75abb81b79db418ea0c48/core-1.3.1/AndroidManifest.xml:24:18-86
+65        android:debuggable="true"
+66        android:icon="@mipmap/ic_launcher"
+66-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:16:9-43
+67        android:label="@string/app_name"
+67-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:15:9-41
+68        android:largeHeap="true"
+68-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:19:9-33
+69        android:roundIcon="@mipmap/ic_launcher_round"
+69-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:17:9-54
+70        android:supportsRtl="true"
+70-->[com.facebook.android:facebook-android-sdk:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/08845aabbb695a3efb260eca051c7bcd/jetified-facebook-android-sdk-9.0.0/AndroidManifest.xml:28:18-44
+71        android:testOnly="true"
+72        android:theme="@style/AppTheme"
+72-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:20:9-40
+73        android:usesCleartextTraffic="true" >
+73-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:21:9-44
+74        <meta-data
+74-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:24:9-26:64
+75            android:name="com.kakao.sdk.AppKey"
+75-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:25:13-48
+76            android:value="c2e55b6dbe7fdb19d1af5422eff956ce" /> <!-- You will also only need to add this uses-library tag -->
+76-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:26:13-61
+77        <uses-library
+77-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:28:9-87
+78            android:name="org.apache.http.legacy"
+78-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:28:23-60
+79            android:required="false" />
+79-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:28:61-85
+80
+81        <activity
+81-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:30:7-40:18
+82            android:name="com.zipanda.MainActivity"
+82-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:31:9-37
+83            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+83-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:33:9-86
+84            android:label="@string/app_name"
+84-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:32:9-41
+85            android:launchMode="singleTask"
+85-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:34:9-40
+86            android:windowSoftInputMode="adjustResize" >
+86-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:35:9-51
+87            <intent-filter>
+87-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:36:9-39:25
+88                <action android:name="android.intent.action.MAIN" />
+88-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:37:13-65
+88-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:37:21-62
+89
+90                <category android:name="android.intent.category.LAUNCHER" />
+90-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:38:13-73
+90-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:38:23-70
+91            </intent-filter>
+92        </activity>
+93        <activity
+93-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:42:9-49:20
+94            android:name="com.kakao.sdk.auth.AuthCodeHandlerActivity"
+94-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:42:19-76
+95            android:launchMode="singleTask"
+95-->[com.kakao.sdk:v2-auth:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/bc54ada8754b9ee87d447bf431398703/jetified-v2-auth-2.5.0/AndroidManifest.xml:19:13-44
+96            android:theme="@style/TransparentCompat" >
+96-->[com.kakao.sdk:v2-auth:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/bc54ada8754b9ee87d447bf431398703/jetified-v2-auth-2.5.0/AndroidManifest.xml:20:13-53
+97            <intent-filter>
+97-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:43:13-48:29
+98                <action android:name="android.intent.action.VIEW" />
+98-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:44:17-69
+98-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:44:25-66
+99
+100                <category android:name="android.intent.category.DEFAULT" />
+100-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:17-76
+100-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:27-73
+101                <category android:name="android.intent.category.BROWSABLE" />
+101-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:46:17-78
+101-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:46:27-75
+102
+103                <data
+103-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:17-101
+104                    android:host="oauth"
+104-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:23-43
+105                    android:scheme="kakaoc2e55b6dbe7fdb19d1af5422eff956ce" />
+105-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:44-98
+106            </intent-filter>
+107        </activity>
+108
+109        <meta-data
+109-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:51:9-107
+110            android:name="com.facebook.sdk.ApplicationId"
+110-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:51:20-65
+111            android:value="@string/facebook_app_id" />
+111-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:51:66-105
+112        <meta-data
+112-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:52:9-111
+113            android:name="com.facebook.sdk.ClientToken"
+113-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:52:20-63
+114            android:value="@string/facebook_client_token" />
+114-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:52:64-109
+115
+116        <provider
+116-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:53:9-55:39
+117            android:name="com.facebook.FacebookContentProvider"
+117-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:54:13-64
+118            android:authorities="com.facebook.app.FacebookContentProvider1234"
+118-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:53:19-85
+119            android:exported="true" />
+119-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:55:13-36
+120
+121        <meta-data
+121-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:57:9-59:42
+122            android:name="com.naver.maps.map.CLIENT_ID"
+122-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:58:13-56
+123            android:value="suzehpniq9" />
+123-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:59:13-39
+124        <meta-data
+124-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:60:9-62:72
+125            android:name="com.naver.maps.map.CLIENT_SECRET"
+125-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:61:13-60
+126            android:value="2aHkVDLHKiDfgehPLPGMni3M8azWIbOCCDf7gTgc" />
+126-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:62:13-69
+127        <meta-data
+127-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:65:9-67:70
+128            android:name="com.google.android.geo.API_KEY"
+128-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:66:13-58
+129            android:value="AIzaSyCQPNPSGwuT1M0_DCQlZhusqUTAS8Dwah8" />
+129-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:67:13-68
+130
+131        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+131-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:69:9-86
+131-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:69:19-83
+132
+133        <service android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService" />
+133-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-111
+133-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-108
+134        <service
+134-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-23:19
+135            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService"
+135-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-95
+136            android:exported="false" >
+136-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-37
+137            <intent-filter>
+137-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+138                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+138-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
+138-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
+139            </intent-filter>
+140        </service>
+141
+142        <receiver
+142-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-32:20
+143            android:name="io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver"
+143-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-96
+144            android:exported="true"
+144-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-36
+145            android:permission="com.google.android.c2dm.permission.SEND" >
+145-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-73
+146            <intent-filter>
+146-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+147                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+147-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+147-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+148            </intent-filter>
+149        </receiver>
+150
+151        <meta-data
+151-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-36:36
+152            android:name="firebase_messaging_auto_init_enabled"
+152-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-64
+153            android:value="true" />
+153-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-33
+154        <meta-data
+154-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:32
+155            android:name="com.google.firebase.messaging.default_notification_channel_id"
+155-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-89
+156            android:value="" />
+156-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-29
+157        <meta-data
+157-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-42:47
+158            android:name="com.google.firebase.messaging.default_notification_color"
+158-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-84
+159            android:resource="@color/white" />
+159-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-44
+160
+161        <activity
+161-->[:react-native-seoul_naver-login] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:9-18:52
+162            android:name="com.nhn.android.naverlogin.ui.OAuthLoginInAppBrowserActivity"
+162-->[:react-native-seoul_naver-login] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-88
+163            android:configChanges="orientation|screenSize"
+163-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c9c9899825e87c6eebb72610b3e73259/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:22:13-59
+164            android:label="OAuth2.0 In-app"
+164-->[:react-native-seoul_naver-login] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-44
+165            android:screenOrientation="portrait" />
+165-->[:react-native-seoul_naver-login] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-seoul/naver-login/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-49
+166
+167        <provider
+167-->[:react-native-image-picker] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+168            android:name="com.imagepicker.ImagePickerProvider"
+168-->[:react-native-image-picker] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
+169            android:authorities="com.zipanda.imagepickerprovider"
+169-->[:react-native-image-picker] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
+170            android:exported="false"
+170-->[:react-native-image-picker] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+171            android:grantUriPermissions="true" >
+171-->[:react-native-image-picker] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+172            <meta-data
+172-->[:react-native-image-picker] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+173                android:name="android.support.FILE_PROVIDER_PATHS"
+173-->[:react-native-image-picker] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+174                android:resource="@xml/imagepicker_provider_paths" />
+174-->[:react-native-image-picker] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+175        </provider>
+176        <provider
+176-->[:react-native-webview] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+177            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+177-->[:react-native-webview] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+178            android:authorities="com.zipanda.fileprovider"
+178-->[:react-native-webview] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+179            android:exported="false"
+179-->[:react-native-webview] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+180            android:grantUriPermissions="true" >
+180-->[:react-native-webview] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+181            <meta-data
+181-->[:react-native-image-picker] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+182                android:name="android.support.FILE_PROVIDER_PATHS"
+182-->[:react-native-image-picker] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+183                android:resource="@xml/file_provider_paths" />
+183-->[:react-native-image-picker] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+184        </provider>
+185
+186        <activity
+186-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c9c9899825e87c6eebb72610b3e73259/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:17:9-19:67
+187            android:name="com.nhn.android.naverlogin.ui.OAuthLoginActivity"
+187-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c9c9899825e87c6eebb72610b3e73259/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:18:13-76
+188            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+188-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c9c9899825e87c6eebb72610b3e73259/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:19:13-64
+189        <activity
+189-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c9c9899825e87c6eebb72610b3e73259/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:24:9-40:20
+190            android:name="com.nhn.android.naverlogin.ui.OAuthCustomTabActivity"
+190-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c9c9899825e87c6eebb72610b3e73259/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:25:13-80
+191            android:configChanges="orientation|screenSize"
+191-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c9c9899825e87c6eebb72610b3e73259/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:26:13-59
+192            android:launchMode="singleTask"
+192-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c9c9899825e87c6eebb72610b3e73259/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:27:13-44
+193            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+193-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c9c9899825e87c6eebb72610b3e73259/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:28:13-72
+194            <intent-filter>
+194-->[com.naver.nid:naveridlogin-android-sdk:4.2.5] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c9c9899825e87c6eebb72610b3e73259/jetified-naveridlogin-android-sdk-4.2.5/AndroidManifest.xml:29:13-39:29
+195                <action android:name="android.intent.action.VIEW" />
+195-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:44:17-69
+195-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:44:25-66
+196
+197                <category android:name="android.intent.category.DEFAULT" />
+197-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:17-76
+197-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:27-73
+198                <category android:name="android.intent.category.BROWSABLE" />
+198-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:46:17-78
+198-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:46:27-75
+199                <!-- Intent URL 에서 로그인 액티비티를 실행하기 위해 설정 -->
+200                <data
+200-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:17-101
+201                    android:host="authorize"
+201-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:23-43
+202                    android:path="/"
+203                    android:scheme="naver3rdpartylogin" />
+203-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:44-98
+204            </intent-filter>
+205        </activity>
+206        <activity
+206-->[com.kakao.sdk:v2-auth:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/bc54ada8754b9ee87d447bf431398703/jetified-v2-auth-2.5.0/AndroidManifest.xml:12:9-16:56
+207            android:name="com.kakao.sdk.auth.TalkAuthCodeActivity"
+207-->[com.kakao.sdk:v2-auth:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/bc54ada8754b9ee87d447bf431398703/jetified-v2-auth-2.5.0/AndroidManifest.xml:13:13-67
+208            android:exported="false"
+208-->[com.kakao.sdk:v2-auth:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/bc54ada8754b9ee87d447bf431398703/jetified-v2-auth-2.5.0/AndroidManifest.xml:14:13-37
+209            android:launchMode="singleTask"
+209-->[com.kakao.sdk:v2-auth:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/bc54ada8754b9ee87d447bf431398703/jetified-v2-auth-2.5.0/AndroidManifest.xml:15:13-44
+210            android:theme="@style/TransparentCompat" />
+210-->[com.kakao.sdk:v2-auth:2.5.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/bc54ada8754b9ee87d447bf431398703/jetified-v2-auth-2.5.0/AndroidManifest.xml:16:13-53
+211        <activity
+211-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:27:9-44:20
+212            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+212-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:28:13-80
+213            android:excludeFromRecents="true"
+213-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:29:13-46
+214            android:exported="true"
+214-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:30:13-36
+215            android:launchMode="singleTask"
+215-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:31:13-44
+216            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+216-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:32:13-72
+217            <intent-filter>
+217-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:33:13-43:29
+218                <action android:name="android.intent.action.VIEW" />
+218-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:44:17-69
+218-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:44:25-66
+219
+220                <category android:name="android.intent.category.DEFAULT" />
+220-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:17-76
+220-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:27-73
+221                <category android:name="android.intent.category.BROWSABLE" />
+221-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:46:17-78
+221-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:46:27-75
+222
+223                <data
+223-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:17-101
+224                    android:host="firebase.auth"
+224-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:23-43
+225                    android:path="/"
+226                    android:scheme="genericidp" />
+226-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:44-98
+227            </intent-filter>
+228        </activity>
+229        <activity
+229-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:45:9-62:20
+230            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+230-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:46:13-79
+231            android:excludeFromRecents="true"
+231-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:47:13-46
+232            android:exported="true"
+232-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:48:13-36
+233            android:launchMode="singleTask"
+233-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:49:13-44
+234            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+234-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:50:13-72
+235            <intent-filter>
+235-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:51:13-61:29
+236                <action android:name="android.intent.action.VIEW" />
+236-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:44:17-69
+236-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:44:25-66
+237
+238                <category android:name="android.intent.category.DEFAULT" />
+238-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:17-76
+238-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:27-73
+239                <category android:name="android.intent.category.BROWSABLE" />
+239-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:46:17-78
+239-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:46:27-75
+240
+241                <data
+241-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:17-101
+242                    android:host="firebase.auth"
+242-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:23-43
+243                    android:path="/"
+244                    android:scheme="recaptcha" />
+244-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:44-98
+245            </intent-filter>
+246        </activity>
+247
+248        <service
+248-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:64:9-73:19
+249            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+249-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:65:13-101
+250            android:enabled="true"
+250-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:66:13-35
+251            android:exported="false" >
+251-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:67:13-37
+252            <intent-filter>
+252-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:68:13-72:29
+253                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+253-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:17-89
+253-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:69:25-86
+254
+255                <category android:name="android.intent.category.DEFAULT" />
+255-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:17-76
+255-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:27-73
+256            </intent-filter>
+257        </service>
+258        <service
+258-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:74:9-80:19
+259            android:name="com.google.firebase.components.ComponentDiscoveryService"
+259-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:75:13-84
+260            android:directBootAware="true"
+260-->[com.google.firebase:firebase-common:20.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/138731ebf16ccc7dc320607f3709be1b/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+261            android:exported="false" >
+261-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:76:13-37
+262            <meta-data
+262-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:77:13-79:85
+263                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+263-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:78:17-109
+264                android:value="com.google.firebase.components.ComponentRegistrar" />
+264-->[com.google.firebase:firebase-auth:21.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/47782dfbf0730fe91cf8140f5dcb0a6a/jetified-firebase-auth-21.0.1/AndroidManifest.xml:79:17-82
+265            <meta-data
+265-->[com.google.firebase:firebase-firestore:23.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/3243dc211a9c3e33a30b7c407c931334/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:20:13-22:85
+266                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+266-->[com.google.firebase:firebase-firestore:23.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/3243dc211a9c3e33a30b7c407c931334/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:21:17-111
+267                android:value="com.google.firebase.components.ComponentRegistrar" />
+267-->[com.google.firebase:firebase-firestore:23.0.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/3243dc211a9c3e33a30b7c407c931334/jetified-firebase-firestore-23.0.1/AndroidManifest.xml:22:17-82
+268            <meta-data
+268-->[com.google.firebase:firebase-messaging:22.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c8626d9b644a7a8ab6988767ad21b765/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:52:13-54:85
+269                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+269-->[com.google.firebase:firebase-messaging:22.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c8626d9b644a7a8ab6988767ad21b765/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:53:17-119
+270                android:value="com.google.firebase.components.ComponentRegistrar" />
+270-->[com.google.firebase:firebase-messaging:22.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c8626d9b644a7a8ab6988767ad21b765/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:54:17-82
+271            <meta-data
+271-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/cf8fcaabf856683bc48e90446f841684/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:28:13-30:85
+272                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+272-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/cf8fcaabf856683bc48e90446f841684/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:29:17-115
+273                android:value="com.google.firebase.components.ComponentRegistrar" />
+273-->[com.google.firebase:firebase-datatransport:18.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/cf8fcaabf856683bc48e90446f841684/jetified-firebase-datatransport-18.0.0/AndroidManifest.xml:30:17-82
+274            <meta-data
+274-->[com.google.firebase:firebase-installations:17.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/d8350139a217d7aada8b135f46da586f/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+275                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+275-->[com.google.firebase:firebase-installations:17.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/d8350139a217d7aada8b135f46da586f/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+276                android:value="com.google.firebase.components.ComponentRegistrar" />
+276-->[com.google.firebase:firebase-installations:17.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/d8350139a217d7aada8b135f46da586f/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+277        </service>
+278
+279        <activity
+279-->[com.facebook.android:facebook-common:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/9fa636ec2654cd9b0e6402ec818f7601/jetified-facebook-common-9.0.0/AndroidManifest.xml:30:9-33:66
+280            android:name="com.facebook.FacebookActivity"
+280-->[com.facebook.android:facebook-common:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/9fa636ec2654cd9b0e6402ec818f7601/jetified-facebook-common-9.0.0/AndroidManifest.xml:31:13-57
+281            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+281-->[com.facebook.android:facebook-common:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/9fa636ec2654cd9b0e6402ec818f7601/jetified-facebook-common-9.0.0/AndroidManifest.xml:32:13-96
+282            android:theme="@style/com_facebook_activity_theme" />
+282-->[com.facebook.android:facebook-common:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/9fa636ec2654cd9b0e6402ec818f7601/jetified-facebook-common-9.0.0/AndroidManifest.xml:33:13-63
+283        <activity android:name="com.facebook.CustomTabMainActivity" />
+283-->[com.facebook.android:facebook-common:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/9fa636ec2654cd9b0e6402ec818f7601/jetified-facebook-common-9.0.0/AndroidManifest.xml:34:9-71
+283-->[com.facebook.android:facebook-common:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/9fa636ec2654cd9b0e6402ec818f7601/jetified-facebook-common-9.0.0/AndroidManifest.xml:34:19-68
+284        <activity
+284-->[com.facebook.android:facebook-common:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/9fa636ec2654cd9b0e6402ec818f7601/jetified-facebook-common-9.0.0/AndroidManifest.xml:35:9-49:20
+285            android:name="com.facebook.CustomTabActivity"
+285-->[com.facebook.android:facebook-common:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/9fa636ec2654cd9b0e6402ec818f7601/jetified-facebook-common-9.0.0/AndroidManifest.xml:36:13-58
+286            android:exported="true" >
+286-->[com.facebook.android:facebook-common:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/9fa636ec2654cd9b0e6402ec818f7601/jetified-facebook-common-9.0.0/AndroidManifest.xml:37:13-36
+287            <intent-filter>
+287-->[com.facebook.android:facebook-common:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/9fa636ec2654cd9b0e6402ec818f7601/jetified-facebook-common-9.0.0/AndroidManifest.xml:39:13-48:29
+288                <action android:name="android.intent.action.VIEW" />
+288-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:44:17-69
+288-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:44:25-66
+289
+290                <category android:name="android.intent.category.DEFAULT" />
+290-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:17-76
+290-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:45:27-73
+291                <category android:name="android.intent.category.BROWSABLE" />
+291-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:46:17-78
+291-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:46:27-75
+292
+293                <data
+293-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:17-101
+294                    android:host="cct.com.zipanda"
+294-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:23-43
+295                    android:scheme="fbconnect" />
+295-->/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/AndroidManifest.xml:47:44-98
+296            </intent-filter>
+297        </activity>
+298        <activity
+298-->[com.google.android.gms:play-services-auth:19.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/873d7bbd68ee7d93280f94da69028f5d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+299            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+299-->[com.google.android.gms:play-services-auth:19.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/873d7bbd68ee7d93280f94da69028f5d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+300            android:excludeFromRecents="true"
+300-->[com.google.android.gms:play-services-auth:19.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/873d7bbd68ee7d93280f94da69028f5d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+301            android:exported="false"
+301-->[com.google.android.gms:play-services-auth:19.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/873d7bbd68ee7d93280f94da69028f5d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+302            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+302-->[com.google.android.gms:play-services-auth:19.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/873d7bbd68ee7d93280f94da69028f5d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+303        <!--
+304            Service handling Google Sign-In user revocation. For apps that do not integrate with
+305            Google Sign-In, this service will never be started.
+306        -->
+307        <service
+307-->[com.google.android.gms:play-services-auth:19.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/873d7bbd68ee7d93280f94da69028f5d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+308            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+308-->[com.google.android.gms:play-services-auth:19.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/873d7bbd68ee7d93280f94da69028f5d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+309            android:exported="true"
+309-->[com.google.android.gms:play-services-auth:19.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/873d7bbd68ee7d93280f94da69028f5d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+310            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+310-->[com.google.android.gms:play-services-auth:19.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/873d7bbd68ee7d93280f94da69028f5d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+311            android:visibleToInstantApps="true" />
+311-->[com.google.android.gms:play-services-auth:19.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/873d7bbd68ee7d93280f94da69028f5d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+312
+313        <activity
+313-->[com.google.android.gms:play-services-base:17.2.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/eb3bc54b3b67dacaa0d37c173d92a90a/jetified-play-services-base-17.2.1/AndroidManifest.xml:23:9-26:75
+314            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+314-->[com.google.android.gms:play-services-base:17.2.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/eb3bc54b3b67dacaa0d37c173d92a90a/jetified-play-services-base-17.2.1/AndroidManifest.xml:24:13-79
+315            android:exported="false"
+315-->[com.google.android.gms:play-services-base:17.2.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/eb3bc54b3b67dacaa0d37c173d92a90a/jetified-play-services-base-17.2.1/AndroidManifest.xml:25:13-37
+316            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+316-->[com.google.android.gms:play-services-base:17.2.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/eb3bc54b3b67dacaa0d37c173d92a90a/jetified-play-services-base-17.2.1/AndroidManifest.xml:26:13-72
+317
+318        <receiver
+318-->[com.google.firebase:firebase-messaging:22.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c8626d9b644a7a8ab6988767ad21b765/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:28:9-35:20
+319            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+319-->[com.google.firebase:firebase-messaging:22.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c8626d9b644a7a8ab6988767ad21b765/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:29:13-78
+320            android:exported="true"
+320-->[com.google.firebase:firebase-messaging:22.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c8626d9b644a7a8ab6988767ad21b765/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:30:13-36
+321            android:permission="com.google.android.c2dm.permission.SEND" >
+321-->[com.google.firebase:firebase-messaging:22.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c8626d9b644a7a8ab6988767ad21b765/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:31:13-73
+322            <intent-filter>
+322-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+323                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+323-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+323-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+324            </intent-filter>
+325        </receiver>
+326        <!--
+327             FirebaseMessagingService performs security checks at runtime,
+328             but set to not exported to explicitly avoid allowing another app to call it.
+329        -->
+330        <service
+330-->[com.google.firebase:firebase-messaging:22.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c8626d9b644a7a8ab6988767ad21b765/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:41:9-48:19
+331            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+331-->[com.google.firebase:firebase-messaging:22.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c8626d9b644a7a8ab6988767ad21b765/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:42:13-82
+332            android:directBootAware="true"
+332-->[com.google.firebase:firebase-messaging:22.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c8626d9b644a7a8ab6988767ad21b765/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:43:13-43
+333            android:exported="false" >
+333-->[com.google.firebase:firebase-messaging:22.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/c8626d9b644a7a8ab6988767ad21b765/jetified-firebase-messaging-22.0.0/AndroidManifest.xml:44:13-37
+334            <intent-filter android:priority="-500" >
+334-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+335                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+335-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
+335-->[:react-native-firebase_messaging] /Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
+336            </intent-filter>
+337        </service>
+338        <service
+338-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/ec19f13d73308cd6f64829267ae9f4a9/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+339            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+339-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/ec19f13d73308cd6f64829267ae9f4a9/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+340            android:exported="false" >
+340-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/ec19f13d73308cd6f64829267ae9f4a9/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+341            <meta-data
+341-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/ec19f13d73308cd6f64829267ae9f4a9/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+342                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+342-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/ec19f13d73308cd6f64829267ae9f4a9/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+343                android:value="cct" />
+343-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/ec19f13d73308cd6f64829267ae9f4a9/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+344        </service>
+345        <service
+345-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/84fa8b9e10fa27e4d62344b4b87828f5/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+346            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+346-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/84fa8b9e10fa27e4d62344b4b87828f5/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+347            android:exported="false"
+347-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/84fa8b9e10fa27e4d62344b4b87828f5/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+348            android:permission="android.permission.BIND_JOB_SERVICE" >
+348-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/84fa8b9e10fa27e4d62344b4b87828f5/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+349        </service>
+350
+351        <receiver
+351-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/84fa8b9e10fa27e4d62344b4b87828f5/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+352            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+352-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/84fa8b9e10fa27e4d62344b4b87828f5/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+353            android:exported="false" />
+353-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/84fa8b9e10fa27e4d62344b4b87828f5/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+354
+355        <provider
+355-->[com.google.firebase:firebase-common:20.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/138731ebf16ccc7dc320607f3709be1b/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+356            android:name="com.google.firebase.provider.FirebaseInitProvider"
+356-->[com.google.firebase:firebase-common:20.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/138731ebf16ccc7dc320607f3709be1b/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+357            android:authorities="com.zipanda.firebaseinitprovider"
+357-->[com.google.firebase:firebase-common:20.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/138731ebf16ccc7dc320607f3709be1b/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+358            android:directBootAware="true"
+358-->[com.google.firebase:firebase-common:20.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/138731ebf16ccc7dc320607f3709be1b/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+359            android:exported="false"
+359-->[com.google.firebase:firebase-common:20.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/138731ebf16ccc7dc320607f3709be1b/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+360            android:initOrder="100" />
+360-->[com.google.firebase:firebase-common:20.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/138731ebf16ccc7dc320607f3709be1b/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+361
+362        <meta-data
+362-->[com.google.android.gms:play-services-basement:17.2.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/bf3463b441885a4a973c9452303748eb/jetified-play-services-basement-17.2.1/AndroidManifest.xml:23:9-25:69
+363            android:name="com.google.android.gms.version"
+363-->[com.google.android.gms:play-services-basement:17.2.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/bf3463b441885a4a973c9452303748eb/jetified-play-services-basement-17.2.1/AndroidManifest.xml:24:13-58
+364            android:value="@integer/google_play_services_version" />
+364-->[com.google.android.gms:play-services-basement:17.2.1] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/bf3463b441885a4a973c9452303748eb/jetified-play-services-basement-17.2.1/AndroidManifest.xml:25:13-66
+365        <!--
+366         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+367         with the application context. This config is merged in with the host app's manifest,
+368         but there can only be one provider with the same authority activated at any given
+369         point; so if the end user has two or more different apps that use Facebook SDK, only the
+370         first one will be able to use the provider. To work around this problem, we use the
+371         following placeholder in the authority to identify each host application as if it was
+372         a completely different provider.
+373        -->
+374        <provider
+374-->[com.facebook.android:facebook-core:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/f2e4f70c9f5881c14cad311885cf33d8/jetified-facebook-core-9.0.0/AndroidManifest.xml:39:9-42:40
+375            android:name="com.facebook.internal.FacebookInitProvider"
+375-->[com.facebook.android:facebook-core:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/f2e4f70c9f5881c14cad311885cf33d8/jetified-facebook-core-9.0.0/AndroidManifest.xml:40:13-70
+376            android:authorities="com.zipanda.FacebookInitProvider"
+376-->[com.facebook.android:facebook-core:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/f2e4f70c9f5881c14cad311885cf33d8/jetified-facebook-core-9.0.0/AndroidManifest.xml:41:13-72
+377            android:exported="false" />
+377-->[com.facebook.android:facebook-core:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/f2e4f70c9f5881c14cad311885cf33d8/jetified-facebook-core-9.0.0/AndroidManifest.xml:42:13-37
+378
+379        <receiver
+379-->[com.facebook.android:facebook-core:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/f2e4f70c9f5881c14cad311885cf33d8/jetified-facebook-core-9.0.0/AndroidManifest.xml:44:9-50:20
+380            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+380-->[com.facebook.android:facebook-core:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/f2e4f70c9f5881c14cad311885cf33d8/jetified-facebook-core-9.0.0/AndroidManifest.xml:45:13-86
+381            android:exported="false" >
+381-->[com.facebook.android:facebook-core:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/f2e4f70c9f5881c14cad311885cf33d8/jetified-facebook-core-9.0.0/AndroidManifest.xml:46:13-37
+382            <intent-filter>
+382-->[com.facebook.android:facebook-core:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/f2e4f70c9f5881c14cad311885cf33d8/jetified-facebook-core-9.0.0/AndroidManifest.xml:47:13-49:29
+383                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+383-->[com.facebook.android:facebook-core:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/f2e4f70c9f5881c14cad311885cf33d8/jetified-facebook-core-9.0.0/AndroidManifest.xml:48:17-95
+383-->[com.facebook.android:facebook-core:9.0.0] /Users/munkyuhwan/.gradle/caches/transforms-2/files-2.1/f2e4f70c9f5881c14cad311885cf33d8/jetified-facebook-core-9.0.0/AndroidManifest.xml:48:25-92
+384            </intent-filter>
+385        </receiver>
+386    </application>
+387
+388</manifest>

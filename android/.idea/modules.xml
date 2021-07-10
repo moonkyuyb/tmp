@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zipanda.iml" filepath="$PROJECT_DIR$/.idea/modules/zipanda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1464016103/zipanda.@actbase_react-native-kakao-link.iml" filepath="$PROJECT_DIR$/.idea/modules/1464016103/zipanda.@actbase_react-native-kakao-link.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-308444943/zipanda.actbase_react-kakaosdk.iml" filepath="$PROJECT_DIR$/.idea/modules/-308444943/zipanda.actbase_react-kakaosdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1447229664/zipanda.actbase_react-native-kakao-link.iml" filepath="$PROJECT_DIR$/.idea/modules/1447229664/zipanda.actbase_react-native-kakao-link.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/zipanda.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/zipanda.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1409132422/zipanda.invertase_react-native-apple-authentication.iml" filepath="$PROJECT_DIR$/.idea/modules/-1409132422/zipanda.invertase_react-native-apple-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1947793566/zipanda.react-native-appstore-version-checker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1947793566/zipanda.react-native-appstore-version-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1551736956/zipanda.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1551736956/zipanda.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1538591056/zipanda.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/1538591056/zipanda.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-947747520/zipanda.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-947747520/zipanda.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/640763926/zipanda.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/640763926/zipanda.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-370400918/zipanda.react-native-fbsdk-next.iml" filepath="$PROJECT_DIR$/.idea/modules/-370400918/zipanda.react-native-fbsdk-next.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/482846778/zipanda.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/482846778/zipanda.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1336423535/zipanda.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/1336423535/zipanda.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/665012676/zipanda.react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/665012676/zipanda.react-native-firebase_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/986211165/zipanda.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/986211165/zipanda.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-318819777/zipanda.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/-318819777/zipanda.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2036553833/zipanda.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-2036553833/zipanda.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1192378980/zipanda.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1192378980/zipanda.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-136719665/zipanda.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-136719665/zipanda.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1724290276/zipanda.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1724290276/zipanda.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1126768597/zipanda.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/1126768597/zipanda.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-511663634/zipanda.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-511663634/zipanda.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1032958287/zipanda.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/1032958287/zipanda.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1270524891/zipanda.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1270524891/zipanda.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2028222016/zipanda.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2028222016/zipanda.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1383963048/zipanda.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1383963048/zipanda.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-384394800/zipanda.react-native-seoul_naver-login.iml" filepath="$PROJECT_DIR$/.idea/modules/-384394800/zipanda.react-native-seoul_naver-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1488547743/zipanda.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1488547743/zipanda.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2125020470/zipanda.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-2125020470/zipanda.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

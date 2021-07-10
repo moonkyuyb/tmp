@@ -1,0 +1,25 @@
+{
+  "name": "RNKakaoLink",
+  "version": "1.0.0",
+  "summary": "RNKakaoLink",
+  "description": "RNKakaoLink",
+  "homepage": "n/a",
+  "license": "MIT",
+  "authors": {
+    "author": "author@domain.cn"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/shpongle2634/react-native-kakao-links.git",
+    "tag": "master"
+  },
+  "source_files": "*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

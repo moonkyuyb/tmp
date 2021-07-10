@@ -1,0 +1,5 @@
+rootProject.name = 'zipanda'
+include ':@actbase_react-native-kakao-link'
+project(':@actbase_react-native-kakao-link').projectDir = new File(rootProject.projectDir, '../react-native-kakao-link/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'

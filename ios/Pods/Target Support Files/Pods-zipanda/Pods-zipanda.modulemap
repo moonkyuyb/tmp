@@ -1,0 +1,6 @@
+module Pods_zipanda {
+  umbrella header "Pods-zipanda-umbrella.h"
+
+  export *
+  module * { export * }
+}

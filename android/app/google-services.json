@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "190854026241",
+    "project_id": "zipanda-366af",
+    "storage_bucket": "zipanda-366af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190854026241:android:bd4a6109e6bcceaa87dc00",
+        "android_client_info": {
+          "package_name": "com.zipanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190854026241-5gggmcstvt6jl5hn6qa6krrkbhkjri9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zipanda",
+            "certificate_hash": "7e7adcebb14be07f1047462512bf46829ce4a5b6"
+          }
+        },
+        {
+          "client_id": "190854026241-7ovh6k8g9ep9mkb7o6ccq5hn2ih2kpvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zipanda",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "190854026241-ljvk56qtmjfnd3r4se0s4l6no08ibqo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zipanda",
+            "certificate_hash": "9fba5f685e81c7ab7335bde112a061b8c55ac4db"
+          }
+        },
+        {
+          "client_id": "190854026241-4bc62kp2h0vusjm4kpaj5ordbmgm8ccu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWq_UPZS5ENnGMmIP-VM8qiRZHOEFw5y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190854026241-4bc62kp2h0vusjm4kpaj5ordbmgm8ccu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190854026241-d8rcdc5bge3ghblhsq9bc4r4a2jji17t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ybnet.zipanda",
+                "app_store_id": "1569748223"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

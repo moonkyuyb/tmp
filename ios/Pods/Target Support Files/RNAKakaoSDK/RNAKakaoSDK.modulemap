@@ -1,0 +1,6 @@
+module RNAKakaoSDK {
+  umbrella header "RNAKakaoSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

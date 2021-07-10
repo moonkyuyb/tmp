@@ -1,0 +1,982 @@
+[
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_google.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_google.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_coffee_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_coffee_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_btsearchcencelw.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_btsearchcencelw.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_call_regist.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_call_regist.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_image_panda_thumbnail.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_image_panda_thumbnail.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_menu.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_menu.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_like_l_0_n.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_like_l_0_n.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_attachment_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_attachment_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_managment.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_managment.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_arrow_sub_down.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_arrow_sub_down.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_arrow_sub_up.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_arrow_sub_up.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_stringifyentities_lib_constant_dangerous.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_stringifyentities_lib_constant_dangerous.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_bell_on_bg_yellow.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_bell_on_bg_yellow.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_safety_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_safety_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_withdrawal.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_withdrawal.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_saledetails_iconmapiconpharmacynon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_saledetails_iconmapiconpharmacynon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_icon_attachment.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_icon_attachment.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_menu_close.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_menu_close.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_sale_search.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_sale_search.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_sample_sample_room_05.jpg.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_sample_sample_room_05.jpg"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_high_school_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_high_school_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_img_drawablexhdpi_saledetails_btmapiconhospitalnon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/assets_img_drawablexhdpi_saledetails_btmapiconhospitalnon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_img_regist_bullit_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_img_regist_bullit_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_radio_on.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_radio_on.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_contract.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_contract.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_iconfirehouse.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_iconfirehouse.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_menu_arrow_01.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_menu_arrow_01.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_select_drop.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_select_drop.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_img_drawablexhdpi_saledetails_iconmapiconfirehousenon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/assets_img_drawablexhdpi_saledetails_iconmapiconfirehousenon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_sample_sample_room_04.jpg.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_sample_sample_room_04.jpg"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_bell_off.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_bell_off.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_sale_for_add.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_sale_for_add.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_offices_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_offices_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_outdoor_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_outdoor_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_reservation.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_reservation.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_map_navi.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_map_navi.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_radio_off.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_radio_off.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_like_0_ff.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_like_0_ff.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_image_detail.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_image_detail.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_common_pay.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_common_pay.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_mypagr_arrow_up_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_mypagr_arrow_up_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_login_calendar.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_login_calendar.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_mypagr_arrow_down_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_mypagr_arrow_down_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_registration_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_registration_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_iconpharmacy.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_iconpharmacy.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_arrow_select_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_arrow_select_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_like_for_sale.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_like_for_sale.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_cutout_g.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_cutout_g.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_calendar.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_calendar.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_sub_back.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_sub_back.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_chat_off.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_chat_off.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_sample_sample_room_02.jpg.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_sample_sample_room_02.jpg"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_img_drawablexhdpi_img_tut_arrow_03.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/assets_img_drawablexhdpi_img_tut_arrow_03.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_img_regist_bullit_y.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_img_regist_bullit_y.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_pdf_download.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_pdf_download.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_chat_list.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_chat_list.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_common_deal.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_common_deal.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_logo_home.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_logo_home.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_saledetails_iconmapiconfirehousenon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_saledetails_iconmapiconfirehousenon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_img_logo_en_01.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_img_logo_en_01.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_img_mypage_heart.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_img_mypage_heart.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_search_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_search_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_img_drawablexhdpi_img_tut_arrow_04.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/assets_img_drawablexhdpi_img_tut_arrow_04.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_common_sign.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_common_sign.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_icon_menu_heart.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_icon_menu_heart.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_img_drawablexhdpi_saledetails_bthopital.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/assets_img_drawablexhdpi_saledetails_bthopital.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_img_tut_arrow_down.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_img_tut_arrow_down.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_combo_on.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_combo_on.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_bank_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_bank_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_sub_back_02.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_sub_back_02.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_subway_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_subway_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_img_question.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_img_question.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_chat_on.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_chat_on.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_img_main.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_img_main.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_talk.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_talk.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_in_chating.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_in_chating.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_img_tut_arrow_leht.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_img_tut_arrow_leht.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_panda_face.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_panda_face.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_saledetails_iconpharmacy.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_saledetails_iconpharmacy.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_img_tut_arrow_03.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_img_tut_arrow_03.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_naver.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_naver.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_sample_sample_room_03.jpg.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_sample_sample_room_03.jpg"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_profile.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_profile.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_registration_cencel.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_registration_cencel.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_login_pass.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_login_pass.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_iconmapiconpharmacynon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_iconmapiconpharmacynon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_img_drawablexhdpi_icon_menu_heart.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/assets_img_drawablexhdpi_icon_menu_heart.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_contract_on.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_contract_on.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_text_search_title_train.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_text_search_title_train.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_iconregistimage.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_iconregistimage.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_saledetails_bthopital.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_saledetails_bthopital.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_img_tut_arrow_04.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_img_tut_arrow_04.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_menulist.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_menulist.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_arrow_01.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_arrow_01.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_search_cencel_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_search_cencel_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_login_id.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_login_id.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_common_registered.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_common_registered.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_coffee_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_coffee_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_vision.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_vision.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_housesearch.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_housesearch.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_characterentitieshtml4_index.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_characterentitieshtml4_index.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_iconmobilecall.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_iconmobilecall.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_mypage_add.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_mypage_add.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_app.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/app.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_high_school_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_high_school_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_add_for_sale.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_add_for_sale.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_bt_complex_arrow_y.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_bt_complex_arrow_y.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_push.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_push.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_area_a.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_area_a.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_mypage_attention.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_mypage_attention.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_img_drawablexhdpi_saledetails_iconfirehouse.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/assets_img_drawablexhdpi_saledetails_iconfirehouse.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_cutout_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_cutout_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_img_logo_en.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_img_logo_en.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_iconmapiconfirehousenon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_iconmapiconfirehousenon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_saledetails_btmapiconhospitalnon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_saledetails_btmapiconhospitalnon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_bthopital.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_bthopital.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_guide_filter_save.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_guide_filter_save.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_map_point.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_map_point.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_talk_non.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_talk_non.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_convenience_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_convenience_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_img_call_regist.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_img_call_regist.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_mypage_edit.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_mypage_edit.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_search_cencel_g.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_search_cencel_g.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_img_arrow.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_img_arrow.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_direct_regist.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_direct_regist.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_sample_sample_room_01.jpg.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_sample_sample_room_01.jpg"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_safety_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_safety_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_elementary_school_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_elementary_school_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_common_real_sign.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_common_real_sign.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_csscolorkeywords_colors.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_csscolorkeywords_colors.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_receipt_on.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_receipt_on.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_img_drawablexhdpi_saledetails_iconpharmacy.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/assets_img_drawablexhdpi_saledetails_iconpharmacy.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_search_y.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_search_y.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_home.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_home.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_header_back.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_header_back.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_area_p.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_area_p.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_text_search_title_map.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_text_search_title_map.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_img_tut_arrow_down_2.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_img_tut_arrow_down_2.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_contract_off.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_contract_off.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_outdoor_g.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_outdoor_g.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_img_drawablexhdpi_360_map_search_home_filter_open.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/assets_img_drawablexhdpi_360_map_search_home_filter_open.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_bt_menu_arrow_01_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_bt_menu_arrow_01_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_btmapiconhospitalnon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_btmapiconhospitalnon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_convenience_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_convenience_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_alert.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_alert.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_arrow_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_arrow_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_like_0_n.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_like_0_n.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_mypage_add_image.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_mypage_add_image.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_combo_off.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_combo_off.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_kakao.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_kakao.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_close_s.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_close_s.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_like_l_0_ff.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_like_l_0_ff.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_img_drawablexhdpi_saledetails_iconmapiconpharmacynon.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/assets_img_drawablexhdpi_saledetails_iconmapiconpharmacynon.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_registration.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_registration.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_apple.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_apple.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_offices_w.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_offices_w.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_img_answer.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_img_answer.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_receipt_off.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_receipt_off.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_saledetails_iconfirehouse.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_saledetails_iconfirehouse.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_bank_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_bank_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_mypage_edit.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_mypage_edit.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_elementary_school_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_elementary_school_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_housesell.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_housesell.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_menu_alam.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_menu_alam.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_img_regist.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_img_regist.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_mypage_deal.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_mypage_deal.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_360_map_search_home_filter_open.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_360_map_search_home_filter_open.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_iconmobilevisit.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_iconmobilevisit.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_bt_filter.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_bt_filter.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_saledetails_icon_map_subway_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_saledetails_icon_map_subway_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_talk.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_talk.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_registration_cencel_b.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_registration_cencel_b.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_characterentitieslegacy_index.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_characterentitieslegacy_index.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_facebook.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_facebook.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_img_drawablexhdpi_bt_complex_arrow.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-xhdpi/assets_img_drawablexhdpi_bt_complex_arrow.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_sample_sample_map.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_sample_sample_map.png"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_img_drawablexhdpi_icon_text_search_title_buiding.png.flat",
+        "source": "/Users/munkyuhwan/WorkSpace/zipGit/zipanda-overhaul/zipanda/android/app/src/main/res/drawable-mdpi/assets_img_drawablexhdpi_icon_text_search_title_buiding.png"
+    }
+]
