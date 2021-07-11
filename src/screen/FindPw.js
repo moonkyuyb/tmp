@@ -15,11 +15,11 @@ import { CloseIcon } from '../components/common/header';
 
 	
 
-const FindPW = ({handleFindPW, resultMSG, resultCode, handlePopup}) => {
+const FindPW = ({findPW, resultMSG, resultCode, handlePopup}) => {
     
 	//GET ROUTE & NAVIGATION
-	const route = useRoute(), navigation = useNavigation()
-	const {control, handleSubmit, getValues, setValue, clearErrors} = useForm()
+	const route = useRoute(), navigation = useNavigation();
+	const {control, handleSubmit, getValues, setValue, clearErrors} = useForm();
 
 	useEffect(()=>{
 		const handleEffect = async (props) => {
@@ -32,22 +32,22 @@ const FindPW = ({handleFindPW, resultMSG, resultCode, handlePopup}) => {
 	return(
 		<Common.ZipandaSafeView>
 			
-			{
-			<Modal isVisible={resultCode=="0000"}>
-					<ModalContainer>
-						<ModalHeader>
-							<Common.TextBold13 ></Common.TextBold13>
-							<Common.TouchableOpacity onPress={()=>{handlePopup();}} ><CloseIcon/></Common.TouchableOpacity>
-						</ModalHeader>
-						<ModalTextCont>
-							<Common.TextBold14>{resultMSG[0]}</Common.TextBold14>
-						</ModalTextCont>
-						<ModalBtnBox>
-							<ModalBtn onPress={()=>{handlePopup(); /*if(resultCode=="0000"){navigation.navigate("index");}*/ }}><Common.TextBold13 whiteTit>확인</Common.TextBold13></ModalBtn>
-						</ModalBtnBox>
-					</ModalContainer>
-			</Modal>
-			}
+			{/*
+				<Modal isVisible={resultCode=="0000"}>
+						<ModalContainer>
+							<ModalHeader>
+								<Common.TextBold13 ></Common.TextBold13>
+								<Common.TouchableOpacity onPress={()=>{handlePopup();}} ><CloseIcon/></Common.TouchableOpacity>
+							</ModalHeader>
+							<ModalTextCont>
+								<Common.TextBold14>{resultMSG[0]}</Common.TextBold14>
+							</ModalTextCont>
+							<ModalBtnBox>
+								<ModalBtn onPress={()=>{handlePopup();  }}><Common.TextBold13 whiteTit>확인</Common.TextBold13></ModalBtn>
+							</ModalBtnBox>
+						</ModalContainer>
+				</Modal>
+			*/}
 			<Common.ScrollContainer>
 				<AccountSubHeader>
 					<PointText><Common.TextSemiBold18>비밀번호가 생각나지 않으시나요?</Common.TextSemiBold18></PointText>
@@ -64,7 +64,7 @@ const FindPW = ({handleFindPW, resultMSG, resultCode, handlePopup}) => {
 				<Common.InputBorder  onChangeText={(value)=>{ setValue("m_mail", value) } } placeholder={'이메일'} />
 			
 			</Common.ScrollContainer>
-			<Common.FloatBtn onPress={()=>{handleFindPW({m_name:getValues("m_name"), m_mail:getValues("m_mail")})}} >
+			<Common.FloatBtn onPress={()=>{findPW({m_name:getValues("m_name"), m_mail:getValues("m_mail")})}} >
 				<Common.TextSemiBold18>확인</Common.TextSemiBold18>
 			</Common.FloatBtn>
 		</Common.ZipandaSafeView>

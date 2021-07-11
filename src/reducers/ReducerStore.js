@@ -15,6 +15,7 @@ import salesReducer, { ALL_SALES_ACTIONS } from '../reducers/salesReducer';
 import authReducer, { ALL_AUTH_ACTIONS } from '../reducers/authReducer';
 import memberInfoReducer, { ALL_MEMBER_INFO_ACTIONS } from '../reducers/memberInfoReducer';
 import boardReducer, { ALL_BOARD_ACTIONS } from '../reducers/boardReducer';
+import FindPWReducer, { ALL_FINDPW_ACTIONS } from '../reducers/boardReducer';
 
 const reducers = combineReducers({
 	//@Ahn
@@ -30,6 +31,7 @@ const reducers = combineReducers({
 	memberInfoReducer: filterActions(memberInfoReducer, ALL_MEMBER_INFO_ACTIONS ),
 
 	boardReducer:		filterActions(boardReducer,  ALL_BOARD_ACTIONS),
+	findPWReducer:		filterActions(FindPWReducer,  ALL_FINDPW_ACTIONS),
 })
 
 const Store = createStore(reducers, applyMiddleware(ReactThunk));

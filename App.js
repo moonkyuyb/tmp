@@ -36,6 +36,9 @@ import { PrevIcon, ZipandaLogoIcon, CloseIcon, NoticeIconOff, NoticeIconOn, Menu
 // 문규환: 게시판
 import {NoticeContainer, FaqContainer, EventListContainer, EventViewContainer} from './src/container/boardContainer';
 
+// 문규환: 비번찾기
+import {findPWContainer} from './src/container/findPwContainer';
+
 LogBox.ignoreAllLogs(true) //XXX: 노란 박스 안보기
 const Stack = createStackNavigator()
 const Drawer = createDrawerNavigator()
@@ -129,7 +132,7 @@ const AppStack = (props) => {
 	})
     
     return(
-        <Stack.Navigator initialRouteName='eventList'>
+        <Stack.Navigator initialRouteName='findPWScreen'>
 			<Stack.Screen name='index' component={IndexContainer} options={()=>makeOptions01('INDEX')}/>
 
 			{/* @Ahn */}
@@ -147,6 +150,8 @@ const AppStack = (props) => {
 			<Stack.Screen name='eventList' 		component={EventListContainer} options={()=>makeOptions01('이벤트')}/>
 			<Stack.Screen name='eventView' 		component={EventViewContainer} options={()=>makeOptions01('이벤트')}/>
 			
+			<Stack.Screen name='findPWScreen' 		component={findPWContainer} options={()=>makeOptions01('비밀번호 찾기')}/>
+
             {/* @SAMPLE */}
             <Stack.Screen name='sample' component={SampleContainer} options={()=>makeOptions01('샘플페이지')}/>
         </Stack.Navigator>
